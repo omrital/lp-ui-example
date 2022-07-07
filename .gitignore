@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+dist/
+workspace.xml
+package-lock.json
+node_modules/
+.idea/
+.idea*
